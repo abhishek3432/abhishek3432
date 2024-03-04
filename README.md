@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning DSA in C++ and Full Stack Development
 
-💬 Ask me about Cyber Data Structures and Web Development 
+💬 Ask me about  Data Structures and Web Development 
 
 📫 How to reach me akt343243@gmail.com
 
