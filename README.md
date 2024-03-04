@@ -40,9 +40,10 @@
 
 
 ## 📊 GitHub Activity
-| !Abhishekgithubid github stats](https://github-readme-stats.vercel.app/api?username=its-aman-yadav&show_icons=true&theme=highcontrast) | ![Abhishekgithubid GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhishekgithubid &theme=highcontrast)                                                                                                           |
+| ![Aman github stats](https://github-readme-stats.vercel.app/api?username=Abhishekgithubid&show_icons=true&theme=highcontrast) | ![Aman GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhishekgithubid&theme=highcontrast)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekgithubid&langs_count=8&theme=highcontrast&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Abhishekgithubid &show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=highcontrast) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekgithubid&langs_count=8&theme=highcontrast&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Abhishekgithubid&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=highcontrast) |
+
 
 
 ## 📚 My Education Status
@@ -55,4 +56,4 @@
 <img height="120" alt="Thanks for visiting my profile, Happy Coding" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
 ## Save me Contributions!
-![snake gif](https://github.com/Its-Aman-Yadav/Abhishekgithubid/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Abhishekgithubid/Abhishekgithubid/blob/output/github-contribution-grid-snake.gif)
