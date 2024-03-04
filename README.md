@@ -1,36 +1,58 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abhishek Tiwari
-=======================================================================================================================================
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Its Abhishek Tiwari</h1>
+<h3 align="center">Learn skills with consistency</h3>
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [akt343243@gmail.com](mailto:akt343243@gmail.com)
+![GitHub Views](https://komarev.com/ghpvc/?username=Abhishekgithubid&color=0e75b6)
+<img align="right" width="400" src="https://media1.giphy.com/media/TPl5N4Ci49ZQY/giphy.gif?cid=ecf05e47za80g6ltso1o7f71jkoak398c5qnbpb3ckqos3vf&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-<a href="https://www.github.com/Abhishekgithubid" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Abhishekgithubid?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+🌱 I’m currently learning DSA in C++ and Full Stack Development
 
-### Skills
+💬 Ask me about Cyber Data Structures and Web Development 
 
+📫 How to reach me akt343243@gmail.com
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+📸 Portfolio -> updating soon
+
+📄 Know about my experiences -> https://www.linkedin.com/in/abhishek-tiwari-42b52b173/
+<br>
+
+## LANGUAGES & TOOLS
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,bootstrap,c,cpp,codepen,css,discord,express,html,java,js,linux,mongodb,mysql,nodejs,react,vscode"/>
+  </a>
 </p>
 
+<br>
 
-### Socials
+## Connect with me  
+<div align="center">
+<a href="https://github.com/Abhishekgithubid" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/abhishek-tiwari-42b52b173/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+     
+# Productivity Stats📈:
+<a href="https://github.com/Abhishekgithubid/github-readme-activity-graph"><img alt="Abhishekgithubid Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abhishekgithubid&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<p align="left"> <a href="https://discord.com/users/@me" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Abhishekgithubid" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/abhishek-tiwari-42b52b173/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
 
-<b>My GitHub Stats</b>
+## 📊 GitHub Activity
+| !Abhishekgithubid github stats](https://github-readme-stats.vercel.app/api?username=its-aman-yadav&show_icons=true&theme=highcontrast) | ![Abhishekgithubid GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhishekgithubid &theme=highcontrast)                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekgithubid&langs_count=8&theme=highcontrast&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Abhishekgithubid &show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=highcontrast) |
 
-<a href="http://www.github.com/Abhishekgithubid"><img src="https://github-readme-stats.vercel.app/api?username=Abhishekgithubid&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Abhishekgithubid's GitHub stats" /></a>
 
-<a href="http://www.github.com/Abhishekgithubid"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekgithubid&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## 📚 My Education Status
 
-<a href="http://www.github.com/Abhishekgithubid"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Abhishekgithubid&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Abhishekgithubid" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekgithubid&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<h4>⌚ B.Tech (CSE) at KCC Institute of Technology and Management ('25), Gr Noida </h4>
+<h4>🏆 12th from Shree Tyagi Modern Public School, Hodal, Haryana </h4>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<img height="120" alt="Thanks for visiting my profile, Happy Coding" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+
+## Save me Contributions!
+![snake gif](https://github.com/Its-Aman-Yadav/Abhishekgithubid/blob/output/github-contribution-grid-snake.gif)
