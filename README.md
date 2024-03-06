@@ -50,5 +50,3 @@
 
 <img height="120" alt="Thanks for visiting my profile, Happy Coding" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
-## Save me Contributions!
-![snake gif](https://github.com/Abhishekgithubid/Abhishekgithubid/blob/output/github-contribution-grid-snake.gif)
