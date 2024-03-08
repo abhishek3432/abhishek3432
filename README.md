@@ -10,7 +10,7 @@
 
 📫 How to reach me akt343243@gmail.com
 
-📸 Portfolio -> updating soon
+📸 Portfolio -> https://abhishekgithubid.github.io/MyPortfolio/
 
 📄 Know about my experiences -> https://www.linkedin.com/in/abhishek-tiwari-42b52b173/
 <br>
