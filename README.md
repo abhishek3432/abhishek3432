@@ -35,7 +35,7 @@
 </div>  
      
 ## 📊 GitHub Activity
-| ![Aman github stats](https://github-readme-stats.vercel.app/api?username=abhishek3432&show_icons=true&theme=highcontrast) | ![Aman GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishek3432&theme=highcontrast)                                                                                                           |
+| ![abhishek3432 github stats](https://github-readme-stats.vercel.app/api?username=abhishek3432&show_icons=true&theme=highcontrast) | ![abhishek3432 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishek3432&theme=highcontrast)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek3432&langs_count=8&theme=highcontrast&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=abhishek3432&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=highcontrast) |
 
