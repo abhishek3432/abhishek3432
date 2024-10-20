@@ -1,52 +1,106 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Its Abhishek Tiwari</h1>
-<h3 align="center">Learning skills with consistency</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abhishek's Terminal</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: monospace;
+            background-color: #111827;
+            color: #4ade80;
+            min-height: 100vh;
+            padding: 2rem;
+        }
+        .container {
+            max-width: 64rem;
+            margin: 0 auto;
+        }
+        .terminal-header {
+            background-color: #1f2937;
+            border-radius: 0.5rem;
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+            padding: 1rem;
+            margin-bottom: 1rem;
+            display: flex;
+            align-items: center;
+        }
+        .terminal-title {
+            font-size: 1.25rem;
+            font-weight: bold;
+            margin-left: 0.5rem;
+        }
+        .terminal-body {
+            background-color: #1f2937;
+            border-radius: 0.5rem;
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+            padding: 1rem;
+            height: 600px;
+            overflow: auto;
+        }
+        .terminal-input {
+            display: flex;
+            align-items: center;
+            margin-top: 1rem;
+        }
+        .terminal-input input {
+            background-color: transparent;
+            border: none;
+            outline: none;
+            color: #4ade80;
+            width: 100%;
+            font-family: monospace;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="terminal-header">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <polyline points="4 17 10 11 4 5"></polyline>
+                <line x1="12" y1="19" x2="20" y2="19"></line>
+            </svg>
+            <span class="terminal-title">Abhishek's Terminal</span>
+        </div>
+        <div class="terminal-body">
+            <pre id="terminal-text"></pre>
+            <div class="terminal-input">
+                <span>$</span>
+                <input type="text" placeholder="Type 'help' for more information...">
+            </div>
+        </div>
+    </div>
 
-![GitHub Views](https://komarev.com/ghpvc/?username=abhishek3432&color=0e75b6)
-<img align="right" width="400" src="https://media1.giphy.com/media/TPl5N4Ci49ZQY/giphy.gif?cid=ecf05e47za80g6ltso1o7f71jkoak398c5qnbpb3ckqos3vf&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+    <script>
+        const fullText = `
+> Abhishek Tiwari
+> Learning skills with consistency
 
-🌱 I’m currently learning DSA in C++ and Full Stack Development
+> Skills:
+  Git, GitHub, Bootstrap, C, C++, CSS, HTML, Java, JavaScript, Linux, MongoDB, MySQL, Node.js, React, VS Code
 
-💬 Ask me about  Data Structures and Web Development 
+> Currently learning:
+  - DSA in C++
+  - Full Stack Development
 
-📫 How to reach me akt343243@gmail.com
+> Contact:
+  - GitHub: https://github.com/abhishek3432
+  - LinkedIn: https://www.linkedin.com/in/abhishek3432/
+  - Email: akt343243@gmail.com
 
-📸 Portfolio ->  https://abhishek3432.github.io/MyPortfolio/
+> Portfolio: https://abhishek3432.github.io/MyPortfolio/
 
-📄 Know about my experiences -> https://www.linkedin.com/in/abhishek3432/
-<br>
+> Type 'help' for more information.
+`;
 
-## LANGUAGES & TOOLS
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,bootstrap,c,cpp,codepen,css,discord,express,html,java,js,linux,mongodb,mysql,nodejs,react,vscode"/>
-  </a>
-</p>
-
-<br>
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/abhishek3432" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="[https://www.linkedin.com/in/abhishek-tiwari-42b52b173/](https://www.linkedin.com/in/abhishek3432/)" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-     
-## 📊 GitHub Activity
-| ![abhishek3432 github stats](https://github-readme-stats.vercel.app/api?username=abhishek3432&show_icons=true&theme=highcontrast) | ![abhishek3432 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishek3432&theme=highcontrast)                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek3432&langs_count=8&theme=highcontrast&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=abhishek3432&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=highcontrast) |
-
-
-
-## 📚 My Education Status
-
-
-<h4>⌚ B.Tech (CSE) at KCC Institute of Technology and Management ('25), Gr Noida, Uttar Pradesh, India </h4>
-<h4>🏆 12th from Shree Tyagi Modern Public School, Hodal, Haryana, India </h4>
-
-
-<img height="120" alt="Thanks for visiting my profile, Happy Coding" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
-
+        let i = 0;
+        const terminalText = document.getElementById('terminal-text');
+        const timer = setInterval(() => {
+            terminalText.textContent = fullText.slice(0, i);
+            i++;
+            if (i > fullText.length) clearInterval(timer);
+        }, 20);
+    </script>
+</body>
+</html>
